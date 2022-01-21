@@ -1,4 +1,4 @@
-### Hi there 👋
+### Life is what you make it. Make it magical.
 
 <!--
 **vilas-shivamallu/vilas-shivamallu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
