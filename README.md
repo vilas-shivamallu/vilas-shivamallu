@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [vilas-shivamallu](https://vilas-shivamallu.github.io/)
  
-  - [Elite Eventia](eliteone.netlify.app/)
+  - [Elite Eventia](https://eliteone.netlify.app/) -- Client work
   - [Music07 - JS](https://music07.netlify.app/) -- [repo](https://github.com/vilas-shivamallu/music)
   
   - [Insurance Claim System - JS](https://vilas-shivamallu.github.io/insuranceClaim/#) -- [repo](https://github.com/vilas-shivamallu/insuranceClaim)
